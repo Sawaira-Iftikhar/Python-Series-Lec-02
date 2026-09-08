@@ -25,3 +25,5 @@ string3 = """what!
 print("Double quotes: ", string1)
 print("Single quotes: ", string2)
 print("Triple quotes: ", string3)
+
+#--------------------------------------------------------------------
