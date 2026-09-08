@@ -26,7 +26,7 @@ print("Double quotes: ", string1)
 print("Single quotes: ", string2)
 print("Triple quotes: ", string3)
 
-#--------------------------------------------------------------------
+#------------------------------------------------------------------------------
 
 # Q2. What happens if you try to put a single quote inside a
 #     single-quoted string? Try it and fix it TWO different ways.
@@ -39,3 +39,5 @@ print("first way:")
 print("It's a beautiful day.")
 print("second way:")
 print('It"s a beautiful day.')
+
+#------------------------------------------------------------------------------
