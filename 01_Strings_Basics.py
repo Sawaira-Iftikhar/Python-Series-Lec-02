@@ -50,3 +50,19 @@ print('It"s a beautiful day.')
 #     c) What happens if you try "Hello" * 2.5? Try it and
 #        write the error as a comment.
 
+"(a):  String Concatenation "
+
+first_name = "Sawaira"
+last_name = "Iftikhar"
+full_name = first_name + " "+last_name
+print("full_name:",full_name)
+
+"(b):  String Repetition "
+
+laugh = "Ha" * 5
+print("laugh: ",laugh)
+
+"(c):"
+"If i try 'hello' * 5 then it will show error bcz string store non-int value."
+
+
