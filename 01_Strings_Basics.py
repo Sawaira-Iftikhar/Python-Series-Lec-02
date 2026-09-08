@@ -9,3 +9,9 @@
 # ==========================================
 #  PART A: CREATING STRINGS 
 # ==========================================
+
+# Q1. Create three string variables using:
+#     a) Single quotes
+#     b) Double quotes
+#     c) Triple quotes (multi-line)
+#     Print all three.
