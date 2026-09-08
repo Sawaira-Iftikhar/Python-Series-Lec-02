@@ -4,4 +4,8 @@
   Topics: Strings, Escape Sequences, Indexing
   Total Questions: 
 ============================================
+
 """
+# ==========================================
+#  PART A: CREATING STRINGS 
+# ==========================================
