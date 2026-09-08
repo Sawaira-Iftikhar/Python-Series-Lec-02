@@ -41,3 +41,12 @@ print("second way:")
 print('It"s a beautiful day.')
 
 #------------------------------------------------------------------------------
+
+
+# Q3. String Concatenation & Repetition:
+#     a) Create first_name = "Python" and last_name = "Developer"
+#        Concatenate them with a space in between.
+#     b) Create a string "Ha" and repeat it 5 times using *.
+#     c) What happens if you try "Hello" * 2.5? Try it and
+#        write the error as a comment.
+
