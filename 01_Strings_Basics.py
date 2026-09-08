@@ -34,3 +34,8 @@ print("Triple quotes: ", string3)
 #     Broken:  msg = 'It's a beautiful day'
 #     Fix 1:   
 #     Fix 2:  
+
+print("first way:")
+print("It's a beautiful day.")
+print("second way:")
+print('It"s a beautiful day.')
