@@ -27,3 +27,10 @@ print("Single quotes: ", string2)
 print("Triple quotes: ", string3)
 
 #--------------------------------------------------------------------
+
+# Q2. What happens if you try to put a single quote inside a
+#     single-quoted string? Try it and fix it TWO different ways.
+#
+#     Broken:  msg = 'It's a beautiful day'
+#     Fix 1:   
+#     Fix 2:  
