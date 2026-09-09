@@ -82,3 +82,7 @@ print("laugh: ",laugh)
 print("He said, \"Hello!\"\nThen he walked away.\nPath: C:\\Users\\name\\Documents")
 
 #------------------------------------------------------------------------------
+
+# Q5. What is a RAW string? Create a raw string that contains
+#     \n and \t but prints them LITERALLY (not as new line/tab).
+#     Compare it with a normal string.
