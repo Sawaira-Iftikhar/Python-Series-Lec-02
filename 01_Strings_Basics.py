@@ -101,3 +101,6 @@ print("Raw:", raw)
 # ==========================================
 #  PART C: INDEXING 
 # ==========================================
+
+# Q6. Given the string text = "PYTHON", use POSITIVE indexing
+#     to print each character one by one.
