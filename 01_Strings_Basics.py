@@ -104,3 +104,13 @@ print("Raw:", raw)
 
 # Q6. Given the string text = "PYTHON", use POSITIVE indexing
 #     to print each character one by one.
+
+name = "SAWAIRA"
+
+print(name[0])
+print(name[1])
+print(name[2])
+print(name[3])
+print(name[4])
+print(name[5])
+print(name[6])
