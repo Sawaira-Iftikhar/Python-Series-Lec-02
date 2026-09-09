@@ -70,3 +70,11 @@ print("laugh: ",laugh)
 # ==========================================
 #  PART B: ESCAPE SEQUENCES 
 # ==========================================
+
+# Q4. Use escape sequences to print EXACTLY this output:
+#
+#     He said, "Hello!"
+#     Then he walked away.
+#     Path: C:\Users\name\Documents
+#
+#     (You must use \", \n, and \\ at minimum)
