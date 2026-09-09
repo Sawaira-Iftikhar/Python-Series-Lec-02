@@ -65,4 +65,5 @@ print("laugh: ",laugh)
 "(c):"
 "If i try 'hello' * 5 then it will show error bcz string store non-int value."
 
+#------------------------------------------------------------------------------
 
