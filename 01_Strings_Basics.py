@@ -116,3 +116,9 @@ print(name[5])
 print(name[6])
 
 #------------------------------------------------------------------------------
+
+# Q7. Given the string word = "Programming":
+#     a) Print the FIRST character
+#     b) Print the LAST character using positive index
+#     c) Print the LAST character using negative index
+#     d) Print the MIDDLE character (find the index yourself)
