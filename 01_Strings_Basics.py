@@ -132,3 +132,5 @@ print(word[10])
 print (word[-1])
 # print the MIddle character 
 print(word[5])
+
+#------------------------------------------------------------------------------
