@@ -30,3 +30,5 @@ print("last 4: ",name[6:7])
 print("5 to end: ",name[5:len(name)])
 # Te entire string using slicing
 print("full: ",name[0:7])
+
+#----------------------------------------------------------------------------------------
