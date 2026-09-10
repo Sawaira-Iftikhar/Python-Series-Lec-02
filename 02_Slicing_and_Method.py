@@ -41,8 +41,9 @@ print("full: ",name[0:7])
 
 word = "PYTHON"
 
+# Reverse the entire string
 print("Full reverse:", word[::-1])
-
+# Reverse only the first half
 print("First half reversed:", word[:3][::-1] + word[3:])
-
+# Reverse only the second half
 print("Second half reversed:", word[:3] + word[3:][::-1])
