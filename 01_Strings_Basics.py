@@ -135,7 +135,7 @@ print(word[5])
 
 #------------------------------------------------------------------------------
 
-# Q10. INDEX MATH:
+# Q8. INDEX MATH:
 #      Given: quote = "Code is poetry"
 #      a) Print the character at index len(quote) // 2
 #      b) Print the character at index len(quote) - 3
