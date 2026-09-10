@@ -99,7 +99,7 @@ print("Raw:", raw)
 #------------------------------------------------------------------------------
 
 # ==========================================
-#  PART C: INDEXING 
+#  PART C: INDEXING (+ve and -ve)
 # ==========================================
 
 # Q6. Given the string text = "PYTHON", use POSITIVE indexing
@@ -122,3 +122,13 @@ print(name[6])
 #     b) Print the LAST character using positive index
 #     c) Print the LAST character using negative index
 #     d) Print the MIDDLE character (find the index yourself)
+
+word = "Programming"
+# print the First character
+print(word[0])
+#print the last character using positive index
+print(word[10])
+# print the last character using negative index
+print (word[-1])
+# print the MIddle character 
+print(word[5])
