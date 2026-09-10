@@ -149,4 +149,5 @@ print(quote[len(quote) - 3])
 #float as an index
 " print(quote[4.0]) "  # it wil show error bcz python does not support float as index.
 
+#------------------------------------------------------------------------------
 
