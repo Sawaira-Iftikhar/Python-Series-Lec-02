@@ -32,3 +32,9 @@ print("5 to end: ",name[5:len(name)])
 print("full: ",name[0:7])
 
 #----------------------------------------------------------------------------------------
+
+# Q2. REVERSE A STRING using slicing:
+#     Given: word = "PYTHON"
+#     a) Reverse the entire string
+#     b) Reverse only the first half
+#     c) Reverse only the second half
