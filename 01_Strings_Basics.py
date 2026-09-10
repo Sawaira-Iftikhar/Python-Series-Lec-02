@@ -141,3 +141,12 @@ print(word[5])
 #      b) Print the character at index len(quote) - 3
 #      c) Can you use a float as an index? Try quote[2.0]
 #         and write the error as a comment.
+
+quote = "Code is Poetry"
+
+print(quote[len(quote) // 2])
+print(quote[len(quote) - 3])
+#float as an index
+" print(quote[4.0]) "  # it wil show error bcz python does not support float as index.
+
+
