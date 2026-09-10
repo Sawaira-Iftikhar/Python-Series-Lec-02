@@ -134,3 +134,10 @@ print (word[-1])
 print(word[5])
 
 #------------------------------------------------------------------------------
+
+# Q10. INDEX MATH:
+#      Given: quote = "Code is poetry"
+#      a) Print the character at index len(quote) // 2
+#      b) Print the character at index len(quote) - 3
+#      c) Can you use a float as an index? Try quote[2.0]
+#         and write the error as a comment.
