@@ -107,3 +107,10 @@ print("swap Case: ",msg.swapcase())
 #     c) Find the index of "Java" → .find() (what does it return?)
 #     d) Replace "Python" with "JavaScript" → .replace()
 #     e) Replace only the FIRST "Python" → .replace(old, new, count)
+
+sentence = "I love Python and Python loves me"
+print("Count of 'Python': ",sentence.count("Python"))
+
+print("first 'Python': ",sentence.find("Python"))
+print("'Java' at: ",sentence.find("Java"))
+print()
