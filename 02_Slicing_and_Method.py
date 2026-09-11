@@ -113,4 +113,5 @@ print("Count of 'Python': ",sentence.count("Python"))
 
 print("first 'Python': ",sentence.find("Python"))
 print("'Java' at: ",sentence.find("Java"))
-print()
+print('Replace all process: ',sentence.replace("Python", "JavaScript"))
+print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
