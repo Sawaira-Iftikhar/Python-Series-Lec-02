@@ -62,9 +62,13 @@ print("Second half reversed:", word[:3] + word[3:][::-1])
 #     d) The word "World" using only negative indices
 
 letter = "Hello World"
+# Last 5 letters
 print("Last 5: ",letter[-5: ])
+# all other letters except the last 6
 print("Except last 6: ",letter[:-6])
+# print -8 to -3 letters
 print("-8 to -3",letter[-8 :-3])
-print('"world" word using negative indeces: ',letter[-5:])
+# world letter using only negative indeces
+print('"world" negative: ',letter[-5:])
 
 
