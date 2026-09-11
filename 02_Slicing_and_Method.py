@@ -109,9 +109,13 @@ print("swap Case: ",msg.swapcase())
 #     e) Replace only the FIRST "Python" → .replace(old, new, count)
 
 sentence = "I love Python and Python loves me"
+# Count how many "Python" words are present in sentence
 print("Count of 'Python': ",sentence.count("Python"))
-
+# Find the index of the first "Python"
 print("first 'Python': ",sentence.find("Python"))
+# Find the index of java
 print("'Java' at: ",sentence.find("Java"))
+# Replace all "Python" with "javascript"
 print('Replace all process: ',sentence.replace("Python", "JavaScript"))
+# Replace only the Frist "Python"
 print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
