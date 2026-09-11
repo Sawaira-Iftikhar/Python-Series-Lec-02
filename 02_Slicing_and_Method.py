@@ -122,7 +122,7 @@ print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
 
 #----------------------------------------------------------------------------------------
 
-# Q8. STRIP & SPLIT METHODS:
+# Q6. STRIP & SPLIT METHODS:
 #     a) Given: messy = "   Hello World   "
 #        Remove leading/trailing spaces 
 #        Remove only leading 
