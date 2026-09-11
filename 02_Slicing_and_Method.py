@@ -97,3 +97,13 @@ print("Title Case: ",msg.title())
 print("Capitalize Case: ",msg.capitalize())
 #Swap uppercase letter into lowercase and lowercase to uppercase
 print("swap Case: ",msg.swapcase())
+
+#----------------------------------------------------------------------------------------
+
+# Q5. SEARCH & REPLACE METHODS:
+#     Given: sentence = "I love Python and Python loves me"
+#     a) Count how many times "Python" appears → .count()
+#     b) Find the index of first "Python" → .find()
+#     c) Find the index of "Java" → .find() (what does it return?)
+#     d) Replace "Python" with "JavaScript" → .replace()
+#     e) Replace only the FIRST "Python" → .replace(old, new, count)
