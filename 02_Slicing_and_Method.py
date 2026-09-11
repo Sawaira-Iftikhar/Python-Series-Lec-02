@@ -78,7 +78,7 @@ print('"world" negative: ',letter[-5:])
 # ==========================================
 
 # Q4. CASE METHODS:
-#     Given: msg = "pYtHoN iS aWaSoMe"
+#     Give the variable name or any sentence then use these methods 
 #     Print the result of each:
 #     a) .upper()
 #     b) .lower()
