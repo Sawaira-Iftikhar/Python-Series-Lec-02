@@ -85,3 +85,15 @@ print('"world" negative: ',letter[-5:])
 #     c) .title()
 #     d) .capitalize()
 #     e) .swapcase()
+
+msg = "WoRkinG on PythON SeRieS"
+
+print("Upper Case: ", msg.upper())
+
+print("lower Case: ",msg.lower())
+
+print("Title Case: ",msg.title())
+
+print("Capitalize Case: ",msg.capitalize())
+
+print("swap Case: ",msg.swapcase())
