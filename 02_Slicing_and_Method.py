@@ -102,11 +102,11 @@ print("swap Case: ",msg.swapcase())
 
 # Q5. SEARCH & REPLACE METHODS:
 #     Given: sentence = "I love Python and Python loves me"
-#     a) Count how many times "Python" appears → .count()
-#     b) Find the index of first "Python" → .find()
-#     c) Find the index of "Java" → .find() (what does it return?)
-#     d) Replace "Python" with "JavaScript" → .replace()
-#     e) Replace only the FIRST "Python" → .replace(old, new, count)
+#     a) Count how many times "Python" 
+#     b) Find the index of first "Python" 
+#     c) Find the index of "Java" 
+#     d) Replace "Python" with "JavaScript" 
+#     e) Replace only the FIRST "Python" 
 
 sentence = "I love Python and Python loves me"
 # Count how many "Python" words are present in sentence
@@ -119,3 +119,7 @@ print("'Java' at: ",sentence.find("Java"))
 print('Replace all process: ',sentence.replace("Python", "JavaScript"))
 # Replace only the Frist "Python"
 print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
+
+#----------------------------------------------------------------------------------------
+
+
