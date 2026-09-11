@@ -54,9 +54,17 @@ print("Second half reversed:", word[:3] + word[3:][::-1])
 #  PART B: NEGATIVE SLICING 
 # ==========================================
 
-# Q3. Given: text = "Hello World"
+# Q3. Given: letter = "Hello World"
 #     Use NEGATIVE indices to extract:
 #     a) Last 5 characters
 #     b) Everything except the last 6 characters
 #     c) Characters from -8 to -3
 #     d) The word "World" using only negative indices
+
+letter = "Hello World"
+print("Last 5: ",letter[-5: ])
+print("Except last 6: ",letter[:-6])
+print("-8 to -3",letter[-8 :-3])
+print('"world" word using negative indeces: ',letter[-5:])
+
+
