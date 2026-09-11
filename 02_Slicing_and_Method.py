@@ -87,13 +87,13 @@ print('"world" negative: ',letter[-5:])
 #     e) .swapcase()
 
 msg = "WoRkinG on PythON SeRieS"
-
+# Converting into upercase
 print("Upper Case: ", msg.upper())
-
+# Converting into lowercase
 print("lower Case: ",msg.lower())
-
+# Converting into Titlecase that capitalize each first word
 print("Title Case: ",msg.title())
-
+# Converting only the first character of string into Capitalcase
 print("Capitalize Case: ",msg.capitalize())
-
+#Swap uppercase letter into lowercase and lowercase to uppercase
 print("swap Case: ",msg.swapcase())
