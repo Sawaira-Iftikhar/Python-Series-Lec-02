@@ -77,7 +77,7 @@ print('"world" negative: ',letter[-5:])
 #  PART C: STRING METHODS (Q6 - Q10)
 # ==========================================
 
-# Q6. CASE METHODS:
+# Q4. CASE METHODS:
 #     Given: msg = "pYtHoN iS aWaSoMe"
 #     Print the result of each:
 #     a) .upper()
