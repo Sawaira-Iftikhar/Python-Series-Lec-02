@@ -122,4 +122,12 @@ print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
 
 #----------------------------------------------------------------------------------------
 
-
+# Q8. STRIP & SPLIT METHODS:
+#     a) Given: messy = "   Hello World   "
+#        Remove leading/trailing spaces 
+#        Remove only leading 
+#        Remove only trailing
+#     b) Given: csv_data = "apple,banana,cherry,date"
+#        Split into a list 
+#     c) Given: words = ["Python", "is", "awesome"]
+#        Join into a string 
