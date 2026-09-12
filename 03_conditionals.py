@@ -88,3 +88,13 @@ else:
 #     - they are a member.
 #
 #     Also check whether the customer is NOT banned.
+
+student = True
+member = False
+banned = False
+
+if (student or member) and not banned:
+    print("Discount Applied.")
+else:
+    print("No discount available.")
+    
