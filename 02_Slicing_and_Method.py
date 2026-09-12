@@ -131,3 +131,10 @@ print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
 #        Split into a list 
 #     c) Given: words = ["Python", "is", "awesome"]
 #        Join into a string 
+
+messy = "   Hello World   "
+
+print('Stripped: ','"' + messy.strip() + '"')
+print('Left-Stripped: ','"' + messy.lstrip() + '"')
+print('Right-Stripped: ','"' + messy.rstrip() + '"')
+
