@@ -64,3 +64,10 @@ else:
 # ==========================================
 #  PART B: LOGICAL OPERATORS IN CONDITIONS 
 # ==========================================
+
+# Q4. LOGICAL OPERATORS - AND:
+#     A user can access the account only if:
+#     - username is correct
+#     - password is correct
+#
+#     Use the "and" operator.
