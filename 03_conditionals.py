@@ -132,3 +132,8 @@ else:
 #     b) Check if the email ends with ".com" 
 #     c) Check if the email contains "yahoo" 
 #     Print "Valid email ✅" only if ALL conditions are True.
+
+email = "ayz@gmail.com"
+
+if "@" in email and email.endswith(".com") and "yahoo" not in email:
+    print("Valid email ✅")
