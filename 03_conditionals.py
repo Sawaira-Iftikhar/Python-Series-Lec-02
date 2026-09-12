@@ -36,3 +36,13 @@ else:
     print("The weather is nice!")
 
 #-----------------------------------------------------------------------------------------
+
+# Q3. if-elif-else:
+#     Create a variable score = 75.
+#     Print the grade based on these rules:
+#     - 90 and above → "Grade: A "
+#     - 80 to 89     → "Grade: B "
+#     - 70 to 79     → "Grade: C "
+#     - 60 to 69     → "Grade: D "
+#     - Below 60     → "Grade: F "
+
