@@ -81,3 +81,10 @@ else:
     print("Invaid username or password!")
 
 #-----------------------------------------------------------------------------------------
+
+# Q5. LOGICAL OPERATORS - OR & NOT:
+#     A customer gets a discount if:
+#     - they are a student OR
+#     - they are a member.
+#
+#     Also check whether the customer is NOT banned.
