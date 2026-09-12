@@ -139,3 +139,8 @@ print('Stripped: ','"' + messy.strip() + '"')
 print('Left-Stripped: ','"' + messy.lstrip() + '"')
 print('Right-Stripped: ','"' + messy.rstrip() + '"')
 
+# Split the CSV data into a list 
+csv_data = "apple,banana,cherry,date"
+
+print("Split: ",csv_data.split(","))
+
