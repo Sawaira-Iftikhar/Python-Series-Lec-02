@@ -24,7 +24,13 @@ if age >= 18:
 
 # Q2. if-else:
 #     Create a variable temperature = 35.
-#     If temperature > 30, print "It's hot outside! 🔥"
-#     Otherwise, print "The weather is nice! 😊"
+#     If temperature > 30, p0rint "It's hot outside!"
+#     Otherwise, print "The weather is nice! "
 #     Then change temperature to 20 and run again.
 
+temp = 35
+
+if temp > 30:
+    print("It's hot outside!")
+else:
+    print("The weather is nice!")
