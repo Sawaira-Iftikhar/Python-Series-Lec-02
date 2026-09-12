@@ -71,3 +71,12 @@ else:
 #     - password is correct
 #
 #     Use the "and" operator.
+
+username = "admin"
+password = "12345"
+
+if username == "admin" and password == "12345":
+    print("Login Successful!")
+else:
+    print("Invaid username or password!")
+    
