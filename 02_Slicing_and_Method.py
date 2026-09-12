@@ -144,3 +144,10 @@ csv_data = "apple,banana,cherry,date"
 
 print("Split: ",csv_data.split(","))
 
+# Join words into a String (convert list into string)
+
+words = ["Python", "is", "awesome"]
+
+print("Joined: "," ".join(words))
+
+
