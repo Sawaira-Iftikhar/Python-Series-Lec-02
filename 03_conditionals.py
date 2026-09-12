@@ -137,3 +137,5 @@ email = "ayz@gmail.com"
 
 if "@" in email and email.endswith(".com") and "yahoo" not in email:
     print("Valid email ✅")
+
+#------------------------------------------------------------------------------------------
