@@ -134,6 +134,7 @@ print("Replaced firstc process: ",sentence.replace("Python","JavaScript",1))
 
 messy = "   Hello World   "
 
+# Strip Methods
 print('Stripped: ','"' + messy.strip() + '"')
 print('Left-Stripped: ','"' + messy.lstrip() + '"')
 print('Right-Stripped: ','"' + messy.rstrip() + '"')
