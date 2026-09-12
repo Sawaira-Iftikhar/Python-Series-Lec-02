@@ -21,3 +21,10 @@ if age >= 18:
     print("You can vote.")
 
 #-----------------------------------------------------------------------------------------
+
+# Q2. if-else:
+#     Create a variable temperature = 35.
+#     If temperature > 30, print "It's hot outside! 🔥"
+#     Otherwise, print "The weather is nice! 😊"
+#     Then change temperature to 20 and run again.
+
