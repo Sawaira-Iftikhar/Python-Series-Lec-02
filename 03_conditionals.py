@@ -103,3 +103,23 @@ else:
 # ==========================================
 #  PART C: NESTED & ADVANCED 
 # ==========================================
+
+# Q6. NESTED if:
+#     Given: age = 20, has_ticket = True
+#     First check if age >= 18:
+#       If yes, check if has_ticket is True:
+#         If yes → "Welcome to the movie! 🎬"
+#         If no  → "Please buy a ticket first."
+#       If age < 18:
+#         → "Sorry, you're too young."
+
+age = 20
+ticket = True
+
+if age > 18:
+    if ticket == True:
+        print("Welcome to the movie :) ")
+    else:
+        print("please buy a ticket.")
+else:
+    print("Sorry, you are too young.")
