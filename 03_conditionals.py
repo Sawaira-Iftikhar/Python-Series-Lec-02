@@ -10,3 +10,7 @@
 # ==========================================
 #  PART A: BASIC if / else 
 # ==========================================
+
+# Q1. SIMPLE if:
+#     Create a variable age = 20.
+#     If age is greater than or equal to 18, print "You can vote!"
