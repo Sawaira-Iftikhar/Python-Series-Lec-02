@@ -217,3 +217,5 @@ elif len(clean_text) > 30 and "programming" in clean_text:
     print("Category: General Text")
 else:
     print("Category: Short Text")
+
+#-----------------------------------------------------------------------------------------
