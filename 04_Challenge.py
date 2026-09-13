@@ -8,3 +8,8 @@
   Methods, and Conditionals together.
 ============================================
 """
+
+# ==========================================
+#  CHALLENGE 1: The Palindrome Checker 🔤
+#  Topics: Strings, Slicing, Conditionals
+# ==========================================
