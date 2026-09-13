@@ -67,10 +67,11 @@ else:
 
  Python uses indentation (4 spaces) — NOT curly braces.
  Ternary: result = "Yes" if condition else "No" 
+ ```
  
 </details>
 
-📅 Series Progress
+## 📅 Series Progress
 - [ ] **Lecture 01 — Basics, Data Types & Operators ✅
 - [ ] **Lecture 02 — Strings, Slicing & Conditionals 📍 (Current)
 - [ ] **Lecture 03** — Coming Soon
