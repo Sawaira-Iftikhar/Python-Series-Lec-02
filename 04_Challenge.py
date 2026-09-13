@@ -101,6 +101,9 @@ space = " " not in password
 # Count how many rules passed
 rules_passed = sum([long, upper, lower, digit, space])
 
+
+# Print Detailed Report
+
 print("==============================================")
 print("            PASSWORD VALIDATOR                ")
 print("==============================================")
