@@ -170,3 +170,8 @@ print("Empty" if not text else "Not Empty")
 # ==========================================
 #  PART D: REAL-WORLD SCENARIOS 
 # ==========================================
+
+# Q9. MINI PROJECT — ATM Machine:
+#      Create a variable: balance = 5000
+#      Create a variable: action = "withdraw"  (try "deposit", "check", "invalid")
+#      Create a variable: amount = 2000
