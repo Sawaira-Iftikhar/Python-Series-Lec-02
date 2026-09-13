@@ -15,3 +15,21 @@
 # ==========================================
 
  #-------------------Explanation-----------------
+"""
+ Write a program that:
+1. Takes a word: word = "RaceCar"  (notice the mixed case!)
+2. Converts it to lowercase
+3. Reverses it using slicing
+4. Checks if the original (lowered) equals the reversed
+5. Prints the result using a conditional:
+
+   If it IS a palindrome:
+     "✅ 'racecar' is a palindrome!"
+     "Original: racecar"
+     "Reversed: racecar"
+   If it is NOT:
+     "❌ 'hello' is NOT a palindrome!"
+     "Original: hello"
+     "Reversed: olleh" 
+"""
+
