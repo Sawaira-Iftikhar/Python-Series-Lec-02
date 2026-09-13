@@ -209,3 +209,11 @@ print("Title case:", title_text)
 print('Starts with "Python":', starts_with_python)
 print('Ends with "!":       ', ends_with_exclamation)
 print("---------------------------------------------")
+
+# 10. Final Category
+if len(clean_text) > 30 and "programming" in clean_text:
+    print("Category: Technical Text")
+elif len(clean_text) > 30 and "programming" in clean_text:
+    print("Category: General Text")
+else:
+    print("Category: Short Text")
