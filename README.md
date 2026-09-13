@@ -26,9 +26,9 @@ A collection of Python programs and practice exercises focused on covering strin
 <summary><b>Click to expand quick revision notes</b></summary>
 
 ### 1. String Indexing & Slicing
-H e l l o <br>
-0 1 2 3 4 ← Positive Index <br>
--5 -4 -3 -2 -1 ← Negative Index <br>
+| H | e | l | l | o | <br>
+| 0 | 1 | 2 | 3 | 4 |← Positive Index <br>
+|-5 |-4 |-3 |-2 |-1 |← Negative Index <br>
 
 s[start : stop : step] <br>
 s[1:4] → "ell" <br>
