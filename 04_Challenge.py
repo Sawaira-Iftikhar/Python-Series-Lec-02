@@ -177,4 +177,5 @@ last_word = words[-1]
 # 4. Count letter "a" (case-insensitive)
 count_a = clean_text.lower().count("a")
 
-
+# 5. Check if theext contain "AMAZING"
+contain_amazing = "AMAZING" in clean_text
