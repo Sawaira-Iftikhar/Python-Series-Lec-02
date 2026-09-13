@@ -90,4 +90,12 @@ Steps:
 
 password = "MyP@ssw0rd"
 
+long = len(password) >= 8
+upper = password != password.lower()
+lower = password != password.upper()
+digit = any(char.isdigit() for char in password)
+space = " " not in password
+
+rules_passed = sum([long, upper, lower, digit, space])
+
 
