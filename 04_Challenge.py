@@ -39,5 +39,7 @@ word = "RaceCar"
 word = word.lower()
 print("covert into lower: ", word)
 
+reversed_word = word[::-1]
+print("Reversed word: ", reversed_word)
 
 
