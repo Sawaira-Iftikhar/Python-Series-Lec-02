@@ -136,3 +136,27 @@ print("==============================================")
 #  Topics: ALL — Strings, Indexing, Slicing, Methods, Conditionals
 # ==========================================
 
+"""
+Write a program that analyzes a given sentence and prints
+a detailed report.
+
+Given: text = "  Python is an AMAZING programming language!  "
+
+Your program should:
+1. Clean the text (strip whitespace)
+2. Print the cleaned text
+3. Print the total number of characters
+4. Print the first and last character using indexing
+5. Print the first word and last word using slicing/split
+6. Count how many times the letter "a" appears (case-insensitive)
+7. Check if the text contains the word "AMAZING"
+8. Replace "AMAZING" with "awesome" (lowercase)
+9. Convert the entire text to title case
+10. Check if the cleaned text starts with "Python" and ends with "!"
+11. Print a final summary using conditionals:
+    - If length > 30 AND contains "programming" → "📚 Technical Text"
+    - If length > 30 AND NOT "programming"      → "📝 General Text"
+    - If length <= 30                            → "💬 Short Text"
+"""
+
+
