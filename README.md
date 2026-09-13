@@ -31,6 +31,9 @@ A collection of Python programs and practice exercises focused on covering strin
 | 0 | 1 | 2 | 3 | 4 |← Positive Index 
 |-5 |-4 |-3 |-2 |-1 |← Negative Index
 
+**Positive Index →** left to right: `0 1 2 3 4`  
+**Negative Index →** right to left: `-1 -2 -3 -4 -5`
+
 s[start : stop : step] <br>
 s[1:4] → "ell" <br>
 s[::-1] → "olleH" (reverse) <br>
