@@ -33,3 +33,10 @@
      "Reversed: olleh" 
 """
 
+word = "RaceCar"
+
+word = word.lower()
+print("covert into lower: ", word)
+
+
+
