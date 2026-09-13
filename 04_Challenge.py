@@ -87,15 +87,18 @@ Steps:
   d) Print a detailed report:
 
  """
+# Password Strength Checker
 
 password = "MyP@ssw0rd"
 
+# Check each rule
 long = len(password) >= 8
 upper = password != password.lower()
 lower = password != password.upper()
 digit = any(char.isdigit() for char in password)
 space = " " not in password
 
+# Count how many rules passed
 rules_passed = sum([long, upper, lower, digit, space])
 
 
