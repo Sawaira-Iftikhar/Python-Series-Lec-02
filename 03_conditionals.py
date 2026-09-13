@@ -150,9 +150,12 @@ if "@" in email and email.endswith(".com") and "yahoo" not in email:
 #     c) num = 7 → Print "Even"  else "Odd"
 #     d) text = "" → Print "Empty"  else "Not Empty"
 
+# check age
 age = 20
 print("Adult" if age >= 18 else "Minor")
 
+# Check score
 score = 45
 print("Pass" if score >= 50 else "Fail")
 
+# Check even or odd
