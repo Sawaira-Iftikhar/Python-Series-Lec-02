@@ -64,7 +64,19 @@ elif condition:
     ...
 else:
     ...
+
  Python uses indentation (4 spaces) — NOT curly braces.
  Ternary: result = "Yes" if condition else "No" 
  
- </details>
+</details>
+
+📅 Series Progress
+- [ ] **Lecture 01 — Basics, Data Types & Operators ✅
+- [ ] **Lecture 02 — Strings, Slicing & Conditionals 📍 (Current)
+- [ ] **Lecture 03** — Coming Soon
+- [ ] **Lecture 04** — Coming Soon
+- [ ] **Lecture 05** — Coming Soon
+- [ ] **Lecture 06** — Coming Soon
+- [ ] **Lecture 07** — Coming Soon
+- [ ] **Lecture 08** — Coming Soon
+- [ ] **Lecture 09** — Coming Soon
