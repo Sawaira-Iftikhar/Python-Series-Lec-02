@@ -139,3 +139,15 @@ if "@" in email and email.endswith(".com") and "yahoo" not in email:
     print("Valid email ✅")
 
 #------------------------------------------------------------------------------------------
+
+"""TERNARY OPERATOR"""
+"Shortcut form of if-else funciton"
+
+# Q8. TERNARY OPERATOR (One-line if-else):
+#
+#     a) age = 20 → Print "Adult"  else "Minor"
+#     b) score = 45 → Print "Pass"  else "Fail"
+#     c) num = 7 → Print "Even"  else "Odd"
+#     d) text = "" → Print "Empty"  else "Not Empty"
+
+age 
