@@ -174,3 +174,7 @@ words = clean_text.split()
 first_word = words[0]
 last_word = words[-1]
 
+# 4. Count letter "a" (case-insensitive)
+count_a = clean_text.lower().count("a")
+
+
