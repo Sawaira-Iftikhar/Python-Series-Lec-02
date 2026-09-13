@@ -60,6 +60,8 @@ else:
 #  Topics: String Methods, len(), Conditionals, Logical Operators
 # ==========================================
 
+#----------------------Explanation-------------------------------------
+
 """
 Write a password strength checker that validates a password
 against these rules:
