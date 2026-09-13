@@ -202,3 +202,6 @@ if action == "withdraw":
         print("Withdrawal successful New Balance: ",balance)
     else:
         print("Insufficient funds.")
+elif action == "deposit":
+    balance += amount
+    print("Deposit successfl! New balance: ", balance)
