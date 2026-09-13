@@ -43,4 +43,9 @@ print("covert into lower: ", word)
 reversed_word = word[::-1]
 print("Reversed word: ", reversed_word)
 
+if word == reversed_word:
+    print( word, "is a palindrome!")
+    print("Original: ",word)
+    print("reversed: ",reversed_word)
+
 
