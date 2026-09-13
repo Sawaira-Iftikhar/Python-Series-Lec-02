@@ -117,4 +117,14 @@ print(f"Has  no Spaces:        {'Pass' if space else 'Fail'}")
 print("----------------------------------------------")
 print(f"Rules passed: {rules_passed/5}")
 
+if rules_passed== 5:
+    print("Verdict: Strong Password!")
+elif rules_passed >= 3:
+    print("Verdict: Medium Passwrod")
+elif rules_passed >= 1:
+    print("Verdict: Weak Password")
+else:
+    print("Verdict: Very WEak Password")
+
+print("==============================================")
 
