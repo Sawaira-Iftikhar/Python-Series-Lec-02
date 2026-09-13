@@ -45,3 +45,12 @@ s[-3:] → "llo"
 | `.find(sub)` | Index of substring (-1 if not found) |
 | `.count(sub)` | Count occurrences |
 | `.startswith()` / `.endswith()` | Check prefix/suffix |
+
+### 3. Escape Sequences
+| Sequence | Meaning |
+|----------|---------|
+| `\n` | New line |
+| `\t` | Tab |
+| `\\` | Backslash |
+| `\'` | Single quote |
+| `\"` | Double quote |
