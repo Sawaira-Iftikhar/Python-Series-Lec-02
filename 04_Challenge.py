@@ -101,4 +101,17 @@ space = " " not in password
 # Count how many rules passed
 rules_passed = sum([long, upper, lower, digit, space])
 
+print("==============================================")
+print("            PASSWORD VALIDATOR                ")
+print("==============================================")
+print("Password: ",password)
+print("----------------------------------------------")
+print(f"Length >= 8:           {'Pass' if long else 'Fail'} ({len(password)} chars)")
+print(f"Has Uppercase letters: {'Pass' if upper else 'Fail'}")
+print(f"Has Lowercase letters: {'Pass' if lower else 'Fail'}")
+print(f"Has Digits:            {'Pass' if digit else 'Fail'}")
+print(f"Has  no Spaces:        {'Pass' if space else 'Fail'}")
+print("----------------------------------------------")
+print(f"Rules passed: {rules_passed/5}")
+
 
