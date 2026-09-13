@@ -196,3 +196,9 @@ balance = 5000
 action = "withdraw"
 amount = 2000
 
+if action == "withdraw":
+    if amount <= balance:
+        balance -= amount
+        print("Withdrawal successful New Balance: ",balance)
+    else:
+        print("Insufficient funds.")
