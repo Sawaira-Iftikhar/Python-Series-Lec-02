@@ -179,3 +179,10 @@ count_a = clean_text.lower().count("a")
 
 # 5. Check if theext contain "AMAZING"
 contain_amazing = "AMAZING" in clean_text
+
+# 6. Replace "AMAZING" with "awesome"
+replace_text = clean_text.replace("AMAZING", "awesome")
+
+# 7. Convert to title case
+title_text = clean_text.title()
+
