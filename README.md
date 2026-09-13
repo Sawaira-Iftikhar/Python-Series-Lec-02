@@ -13,8 +13,8 @@ A collection of Python programs and practice exercises focused on covering strin
 | 6 | Conditional Statements (if / elif / else) | ✅ |
 
 ## 📂 Practice Files
-| File | Topics | Difficulty | Questions |
-|------|--------|------------|-----------|
+| File | Topics | Questions |
+|------|--------|-----------|
 | [01_Strings_Basics.py](01_Strings_Basics.py) | Strings, Escape Sequences, Indexing |  08 |
 | [02_Slicing_and_Methods.py](02_Slicing_and_Methods.py) | Slicing, Negative Slicing, String Methods | 06 |
 | [03_conditionals.py](03_conditionals.py) | if, elif, else, Nested, Ternary |  09 |
