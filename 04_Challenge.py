@@ -13,3 +13,5 @@
 #  CHALLENGE 1: The Palindrome Checker 🔤
 #  Topics: Strings, Slicing, Conditionals
 # ==========================================
+
+ #-------------------Explanation-----------------
