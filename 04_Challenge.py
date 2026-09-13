@@ -39,6 +39,7 @@ word = "RaceCar"
 word = word.lower()
 print("covert into lower: ", word)
 
+#Reverse using slicing
 reversed_word = word[::-1]
 print("Reversed word: ", reversed_word)
 
