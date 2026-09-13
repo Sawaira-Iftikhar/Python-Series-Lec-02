@@ -54,3 +54,8 @@ else:
     print("Reversed: ", reversed_word)
 
 #-----------------------------------------------------------------------------------------
+
+# ==========================================
+#  CHALLENGE 2: The Password Validator 🔐
+#  Topics: String Methods, len(), Conditionals, Logical Operators
+# ==========================================
