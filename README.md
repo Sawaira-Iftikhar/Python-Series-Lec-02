@@ -19,3 +19,5 @@ A collection of Python programs and practice exercises focused on covering strin
 | [02_Slicing_and_Methods.py](02_Slicing_and_Methods.py) | Slicing, Negative Slicing, String Methods | 06 |
 | [03_conditionals.py](03_conditionals.py) | if, elif, else, Nested, Ternary |  09 |
 |[04_Challenge.py](04_Challenge.py) | ALL Topics Mixed (Boss Level) |  3 |
+
+## 💡 Quick Cheat Sheet (Lecture 2 Highlights)
