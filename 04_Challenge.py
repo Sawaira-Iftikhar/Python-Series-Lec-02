@@ -165,7 +165,12 @@ text = "Python is an AMAZING programming lnaguage! "
 # 1. Clean the text
 clean_text = text.strip()
 
-# 2. First and last character
+# 2. First and last CHARACTER
 first_character = clean_text[0]
 last_character = clean_text[-1]
- 
+
+# 3. First and last WORD
+words = clean_text.split()
+first_word = words[0]
+last_word = words[-1]
+
