@@ -161,3 +161,8 @@ Your program should:
 """
 
 text = "Python is an AMAZING programming lnaguage! "
+
+# 1. Clean the text
+clean_text = text.strip()
+
+
