@@ -87,3 +87,7 @@ Steps:
   d) Print a detailed report:
 
  """
+
+password = "MyP@ssw0rd"
+
+
