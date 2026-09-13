@@ -191,3 +191,8 @@ print("Empty" if not text else "Not Empty")
      - Else:
          Print "Invalid action! 🚫"
 """
+
+balance = 5000
+action = "withdraw"
+amount = 2000
+
