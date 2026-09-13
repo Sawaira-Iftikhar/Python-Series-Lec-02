@@ -22,6 +22,7 @@ A collection of Python programs and practice exercises focused on covering strin
 
 ## 💡 Quick Cheat Sheet (Lecture 2 Highlights)
 <details>
+
 <summary><b>Click to expand quick revision notes</b></summary>
 
 ### 1. String Indexing & Slicing
@@ -54,3 +55,16 @@ s[-3:] → "llo"
 | `\\` | Backslash |
 | `\'` | Single quote |
 | `\"` | Double quote |
+
+### 4. Conditional Flow
+```python
+if condition:
+    ...
+elif condition:
+    ...
+else:
+    ...
+ Python uses indentation (4 spaces) — NOT curly braces.
+ Ternary: result = "Yes" if condition else "No" 
+ 
+ </details>
