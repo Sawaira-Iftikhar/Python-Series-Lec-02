@@ -160,4 +160,4 @@ Your program should:
     - If length <= 30                            → "💬 Short Text"
 """
 
-
+text = "Python is an AMAZING programming lnaguage! "
