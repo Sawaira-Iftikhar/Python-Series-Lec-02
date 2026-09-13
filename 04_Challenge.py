@@ -35,6 +35,7 @@
 
 word = "RaceCar"
 
+# Convert to lowercase
 word = word.lower()
 print("covert into lower: ", word)
 
