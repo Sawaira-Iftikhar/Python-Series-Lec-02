@@ -59,3 +59,29 @@ else:
 #  CHALLENGE 2: The Password Validator 🔐
 #  Topics: String Methods, len(), Conditionals, Logical Operators
 # ==========================================
+
+"""
+Write a password strength checker that validates a password
+against these rules:
+
+Rules:
+  1. Length must be at least 8 characters
+  2. Must contain at least one uppercase letter
+  3. Must contain at least one lowercase letter
+  4. Must contain at least one digit
+  5. Must NOT contain spaces
+
+Given: password = "MyP@ssw0rd"
+
+Steps:
+  a) Check each rule using string methods and conditionals
+  b) Store each check as a boolean variable:
+     - is_long_enough
+     - has_upper
+     - has_lower
+     - has_digit
+     - no_spaces
+  c) Count how many rules pass
+  d) Print a detailed report:
+
+ """
