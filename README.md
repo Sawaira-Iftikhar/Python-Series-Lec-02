@@ -21,3 +21,14 @@ A collection of Python programs and practice exercises focused on covering strin
 |[04_Challenge.py](04_Challenge.py) | ALL Topics Mixed (Boss Level) |  3 |
 
 ## 💡 Quick Cheat Sheet (Lecture 2 Highlights)
+<details>
+<summary><b>Click to expand quick revision notes</b></summary>
+### 1. String Indexing & Slicing
+H e l l o
+0 1 2 3 4 ← Positive Index
+-5 -4 -3 -2 -1 ← Negative Index
+
+s[start : stop : step]
+s[1:4] → "ell"
+s[::-1] → "olleH" (reverse)
+s[-3:] → "llo"
