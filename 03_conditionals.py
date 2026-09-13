@@ -205,3 +205,5 @@ if action == "withdraw":
 elif action == "deposit":
     balance += amount
     print("Deposit successfl! New balance: ", balance)
+elif action == "check":
+    print("Current Balance: ", balance)
