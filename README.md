@@ -87,3 +87,5 @@ If you found this helpful or have any questions:
 
 💬 Found a bug / Have a solution? Open an Issue or submit a Pull Request.
 
+## ⭐ Support
+If you find this repository helpful, please consider giving it a Star (⭐)! It helps others discover this learning roadmap.
