@@ -2,7 +2,7 @@
 ============================================
   LECTURE 2 - FILE 4: BOSS CHALLENGE 
   Topics: ALL 6 Topics Combined
-  Total Challenges: 
+  Total Challenges: 3 hard Questions
 ============================================
   These problems combine Strings, Slicing,
   Methods, and Conditionals together.
