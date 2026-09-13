@@ -26,14 +26,14 @@ A collection of Python programs and practice exercises focused on covering strin
 <summary><b>Click to expand quick revision notes</b></summary>
 
 ### 1. String Indexing & Slicing
-H e l l o
-0 1 2 3 4 ← Positive Index
--5 -4 -3 -2 -1 ← Negative Index
+H e l l o <br>
+0 1 2 3 4 ← Positive Index <br>
+-5 -4 -3 -2 -1 ← Negative Index <br>
 
-s[start : stop : step]
-s[1:4] → "ell"
-s[::-1] → "olleH" (reverse)
-s[-3:] → "llo"
+s[start : stop : step] <br>
+s[1:4] → "ell" <br>
+s[::-1] → "olleH" (reverse) <br>
+s[-3:] → "llo" <br>
 
 ### 2. Most Used String Methods
 | Method | What it does |
