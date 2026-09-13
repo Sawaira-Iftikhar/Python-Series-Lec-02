@@ -48,5 +48,8 @@ if word == reversed_word:
     print( word, "is a palindrome!")
     print("Original: ",word)
     print("reversed: ",reversed_word)
-
+else:
+    print(word , "is Not a Palindrome!")
+    print("Original: ", word)
+    print("Reversed: ", reversed_word)
 
