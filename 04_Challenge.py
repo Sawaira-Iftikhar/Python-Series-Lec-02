@@ -186,3 +186,7 @@ replace_text = clean_text.replace("AMAZING", "awesome")
 # 7. Convert to title case
 title_text = clean_text.title()
 
+# 8. Check beginning and ending
+starts_with_python = clean_text.startswith("Python")
+ends_with_exclamation = clean_text.endswith("!")
+
