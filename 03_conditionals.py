@@ -164,3 +164,5 @@ print("Even" if num % 2 == 0 else "Odd")
 # check if text is empty
 text = " "
 print("Empty" if not text else "Not Empty")
+
+#-----------------------------------------------------------------------------------------
