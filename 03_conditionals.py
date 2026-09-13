@@ -175,3 +175,19 @@ print("Empty" if not text else "Not Empty")
 #      Create a variable: balance = 5000
 #      Create a variable: action = "withdraw"  (try "deposit", "check", "invalid")
 #      Create a variable: amount = 2000
+
+"""  Explanation
+
+     Write conditions:
+     - If action is "withdraw":
+         Check if amount <= balance:
+           Subtract and print new balance
+         Else:
+           Print "Insufficient funds! ❌"
+     - If action is "deposit":
+         Add amount and print new balance
+     - If action is "check":
+         Print current balance
+     - Else:
+         Print "Invalid action! 🚫"
+"""
