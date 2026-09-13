@@ -23,6 +23,7 @@ A collection of Python programs and practice exercises focused on covering strin
 ## 💡 Quick Cheat Sheet (Lecture 2 Highlights)
 <details>
 <summary><b>Click to expand quick revision notes</b></summary>
+
 ### 1. String Indexing & Slicing
 H e l l o
 0 1 2 3 4 ← Positive Index
@@ -32,3 +33,15 @@ s[start : stop : step]
 s[1:4] → "ell"
 s[::-1] → "olleH" (reverse)
 s[-3:] → "llo"
+
+### 2. Most Used String Methods
+| Method | What it does |
+|--------|-------------|
+| `.upper()` / `.lower()` | Change case |
+| `.strip()` | Remove whitespace |
+| `.replace(old, new)` | Replace substring |
+| `.split(sep)` | String → List |
+| `.join(list)` | List → String |
+| `.find(sub)` | Index of substring (-1 if not found) |
+| `.count(sub)` | Count occurrences |
+| `.startswith()` / `.endswith()` | Check prefix/suffix |
