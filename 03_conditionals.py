@@ -159,3 +159,8 @@ score = 45
 print("Pass" if score >= 50 else "Fail")
 
 # Check even or odd
+num = 7
+print("Even" if num % 2 == 0 else "Odd")
+
+text = " "
+print("Empty" if not text else "Not Empty")
