@@ -136,6 +136,7 @@ print("==============================================")
 #  Topics: ALL — Strings, Indexing, Slicing, Methods, Conditionals
 # ==========================================
 
+#------------------------Explanation-----------------------------
 """
 Write a program that analyzes a given sentence and prints
 a detailed report.
